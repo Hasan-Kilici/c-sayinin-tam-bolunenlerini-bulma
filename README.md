@@ -1,0 +1,1 @@
+# c-sayinin-tam-bolunenlerini-bulma
